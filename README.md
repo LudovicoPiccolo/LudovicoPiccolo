@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LudovicoPiccolo
+- 👀 I’m interested in PHP
+- 🌱 I’m currently learning PHP and JavaScript
