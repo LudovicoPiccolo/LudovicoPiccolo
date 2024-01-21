@@ -1,5 +1,5 @@
-<table border="0">
-<tr>
+<table>
+<tr  border="0">
   <th>
     - 👋 Hi, I’m @LudovicoPiccolo
     - 👀 I’m interested in PHP
