@@ -1,4 +1,4 @@
-<table>
+<table border="0">
 <tr>
   <th>
     - 👋 Hi, I’m @LudovicoPiccolo
