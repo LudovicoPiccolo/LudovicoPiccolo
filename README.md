@@ -1,13 +1,20 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/LudovicoPiccolo" target="blank">Ludovico</a></h1>
 <h3 align="center">A Passionate PHP developer from Italy</h3>
-
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</a>
 
 - 👀 I’m interested in PHP
+
 - 🌱 I’m currently learning **Laravel**
-- 🔭 I’m currently working in <a href="https://www.ludosweb.com" target="blank">Ludosweb</a> 
+  
+- 🔭 I’m currently working in <a href="https://www.ludosweb.com" target="blank">Ludosweb</a>
+
 - 📫 How to reach me **ludoplus@gmail.com**
+  
 <br/><br/>
-<br/>
+<br/><br/>
+<br/><br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
 
 <p align="center">
