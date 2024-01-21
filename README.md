@@ -1,13 +1,30 @@
-<table  border="0">
-<tr border="0">
-  <th  border="0">
-    - 👋 Hi, I’m @LudovicoPiccolo
-    - 👀 I’m interested in PHP
-    - 🌱 I’m currently learning PHP and JavaScript
-  </th>
-  <th>
-  <th  border="0">
-    <a href="https://app.daily.dev/ludovicopiccolo"><img src="https://api.daily.dev/devcards/4f2321cadf4f44d284ffe00064c3fa2a.png?r=r81" width="400" alt="Ludovico piccolo's Dev Card"/></a>
-  </th>
-</tr>
-</table>table
+<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+Ludovico</a></h1>
+<h3 align="center">A Passionate PHP developer from Italy</h3>
+
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+- 👋 Hi, I’m @LudovicoPiccolo 
+- 👀 I’m interested in PHP 
+- 🌱 I’m currently learning PHP and JavaScript
+- 🔭 I’m currently working in <a href="https://www.ludosweb.com" target="blank">Ludosweb</a> 
+
+- 📫 How to reach me **ludoplus@gmail.com**
+
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ludovico-piccolo-dev/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/LudovicoPiccolo">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		
+      </div>
+
+</p>
