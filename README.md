@@ -31,7 +31,8 @@
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
       </div>
 	  <div align="center"  class="icons-social" style="margin-left: 10px;">
-## 🔧 Skills
+
+<h3 align="center" >Skills 🔧 </h3>
 
 ![PHP](https://img.shields.io/badge/-PHP-white?style=flat-square&logo=php)
 ![GNU/Linux](https://img.shields.io/badge/-OS-Linux?style=flat-square&logo=linux&logoColor=black)
