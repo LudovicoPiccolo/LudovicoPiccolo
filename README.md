@@ -35,6 +35,7 @@
 <h3 align="center" >Skills 🔧 </h3>
 
 ![PHP](https://img.shields.io/badge/-PHP-white?style=flat-square&logo=php)
+![LARAVEL](https://img.shields.io/badge/-laravel-black?logo=laravel&color=white)
 ![GNU/Linux](https://img.shields.io/badge/-OS-Linux?style=flat-square&logo=linux&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
